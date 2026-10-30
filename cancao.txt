@@ -1,12 +1,19 @@
 SUJEITO DE SORTE 
 Belchior (1976) 
 
+Presentemente, eu posso crescer
+Considerar um sujeito de sorte
+Porque, apesar de muito moço
+Me sinto são, e salvo, e forte
+E tenho comigo pensado
+Deus é brasileiro e anda do meu lado
 Presentemente, eu posso vencer e crescer
 Considerar um sujeito de sorte 
 Porque apesar de muito moço 
 Me sinto são, e salvo, e forte 
 E tenho comigo pensado 
 Deus é Brasileiro e anda do meu lado 
+>>>>>>> origin/develop
 E assim já não posso sofrer 
 No ano passado 
 Tenho sangrado demais 
@@ -21,3 +28,7 @@ Ano passado eu morri
 Mas esse ano eu não morro 
 Ano passado eu morri 
 Mas esse ano eu não morro
+A vida tem um repositório, 
+E o merge traz um conflito; 
+Os commits que nós criamos 
+Ficam no histórico, está registrado. 
